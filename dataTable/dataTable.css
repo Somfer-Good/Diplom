@@ -1,0 +1,47 @@
+table.table1 thead {
+    position: sticky;
+    top: 0;
+}
+
+table.table1 thead th {
+    background-color: #64829B;
+    color: white;
+    font-style: normal;
+    font-weight: normal;
+    border-top: solid 1px white;
+    border-bottom-width: 0px;
+    border-left: solid 1px white;
+    border-right-width: 0px;
+}
+
+table.table1 td {
+    border-top: solid 1px rgb(222, 226, 230);
+    border-bottom-width: 0px;
+    border-left: solid 1px rgb(222, 226, 230);
+    border-right-width: 0px;
+    font-size: 12px;
+}
+
+table.table1 {
+    border-collapse: separate;
+    border-spacing: 0px;
+}
+
+.totalRowReg td {
+    background-color: #baddf3;
+}
+
+.totalRowDor td {
+    background-color: #75BAEB;
+}
+
+.totalRow td{
+    font-weight:bolder;
+    border:#C5C5CB;
+    background-color:#1F92E3;
+    color:#FFFFFF;
+}
+
+.align-left {
+    text-align: left;
+}
